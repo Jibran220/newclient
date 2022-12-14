@@ -53,7 +53,7 @@ const SubHeader = (props) => {
                         <Col md="12">
                             <div className="d-flex justify-content-between flex-wrap">
                                 <div>
-                                    <h1>RFQ Maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaanagers</h1>
+                                    <h1> aaanagers</h1>
                                     <p>Select from the below elements that are required to create the RFQ.</p>
                                 </div>
                                 <div className="d-flex align-items-center">
