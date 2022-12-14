@@ -499,7 +499,7 @@ const Index = (props) => {
                                 <div className="overflow-hidden card" data-aos="fade-up" data-aos-delay="600">
                                     <div className="flex-wrap card-header d-flex justify-content-between">
                                         <div className="header-title">
-                                            <h4 className="mb-2 card-title">Enterprise Clients</h4>
+                                            <h4 className="mb-2 card-title">Enterprise Clsssssssssssssssssssssssssssssssssssssssssssssssssssssients</h4>
                                                  
                                             <p className="mb-0">
                                                 <svg className ="me-2" width="24" height="24" viewBox="0 0 24 24">
